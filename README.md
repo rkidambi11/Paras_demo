@@ -1,9 +1,11 @@
 # Terraform 
-                   #  **** Create Terraform Config**** #
+
+
+
+Create Terraform Config
                    
                    
-                   
-                   Terraform works based on a configuration file, in this case config.tf. The configuration defines your infrastructure, in this instance as providers and resources.
+                 Terraform works based on a configuration file, in this case config.tf. The configuration defines your infrastructure, in this instance as providers and resources.
                    
 A provider is an abstract way of handling the underlying infrastructure and responsible for managing the lifecycle of a resource.
 A resource are components of your infrastructure, for example a container or image.
